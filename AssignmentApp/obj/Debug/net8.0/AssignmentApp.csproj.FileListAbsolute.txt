@@ -1,0 +1,15 @@
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\bin\Debug\net8.0\AssignmentApp.exe
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\bin\Debug\net8.0\AssignmentApp.deps.json
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\bin\Debug\net8.0\AssignmentApp.runtimeconfig.json
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\bin\Debug\net8.0\AssignmentApp.dll
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\bin\Debug\net8.0\AssignmentApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.AssemblyInfo.cs
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.sourcelink.json
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.dll
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\refint\AssignmentApp.dll
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\AssignmentApp.genruntimeconfig.cache
+C:\Users\joey\Desktop\dcit318-assignment1-11026285-1\AssignmentApp\obj\Debug\net8.0\ref\AssignmentApp.dll
